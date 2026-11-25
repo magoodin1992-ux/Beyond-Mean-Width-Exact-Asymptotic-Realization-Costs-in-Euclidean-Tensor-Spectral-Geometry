@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this research note using the metadata below. AI-assisted research and exposition; not peer reviewed."
+title: "Beyond Mean Width: Exact Asymptotic Realization Costs in Euclidean Tensor Spectral Geometry"
+type: dataset
+authors:
+  - name: "magoodin1992-ux (Victor Math)"
+version: "1.0"
+date-released: 2026-11-25
+url: "https://github.com/magoodin1992-ux/Beyond-Mean-Width-Exact-Asymptotic-Realization-Costs-in-Euclidean-Tensor-Spectral-Geometry"
+license: CC-BY-4.0
+keywords:
+  - asymptotic tensor spectrum
+  - Euclidean spectral geometry
+  - terminal cuts
+  - graph tensors
+  - mean width
+  - zero-error information theory
